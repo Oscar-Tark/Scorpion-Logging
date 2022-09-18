@@ -9,3 +9,15 @@
 /home/ferret/GIT/Squirrel-Logging/obj/Debug/net6.0/Squirrel-Logging.dll
 /home/ferret/GIT/Squirrel-Logging/obj/Debug/net6.0/ref/Squirrel-Logging.dll
 /home/ferret/GIT/Squirrel-Logging/obj/Debug/net6.0/Squirrel-Logging.pdb
+/home/ferret/GIT/Squirrel_Project/Squirrel-Logging/bin/Debug/net6.0/Squirrel-Logging.deps.json
+/home/ferret/GIT/Squirrel_Project/Squirrel-Logging/bin/Debug/net6.0/Squirrel-Logging.dll
+/home/ferret/GIT/Squirrel_Project/Squirrel-Logging/bin/Debug/net6.0/Squirrel-Logging.pdb
+/home/ferret/GIT/Squirrel_Project/Squirrel-Logging/obj/Debug/net6.0/Squirrel-Logging.csproj.AssemblyReference.cache
+/home/ferret/GIT/Squirrel_Project/Squirrel-Logging/obj/Debug/net6.0/Squirrel-Logging.GeneratedMSBuildEditorConfig.editorconfig
+/home/ferret/GIT/Squirrel_Project/Squirrel-Logging/obj/Debug/net6.0/Squirrel-Logging.AssemblyInfoInputs.cache
+/home/ferret/GIT/Squirrel_Project/Squirrel-Logging/obj/Debug/net6.0/Squirrel-Logging.AssemblyInfo.cs
+/home/ferret/GIT/Squirrel_Project/Squirrel-Logging/obj/Debug/net6.0/Squirrel-Logging.csproj.CoreCompileInputs.cache
+/home/ferret/GIT/Squirrel_Project/Squirrel-Logging/obj/Debug/net6.0/Squirrel-Logging.dll
+/home/ferret/GIT/Squirrel_Project/Squirrel-Logging/obj/Debug/net6.0/ref/Squirrel-Logging.dll
+/home/ferret/GIT/Squirrel_Project/Squirrel-Logging/obj/Debug/net6.0/Squirrel-Logging.pdb
+/home/ferret/GIT/Squirrel_Project/Squirrel-Logging/obj/Debug/net6.0/refint/Squirrel-Logging.dll

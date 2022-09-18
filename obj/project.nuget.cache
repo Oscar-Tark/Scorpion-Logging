@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "g0pgbP+rmy7b7qGohzlxT1sPchqy3c42EBhKqUt2ls3WokXAqXat2nOxLXIP7ApVjiKof71bfCLZbx0QniW+CA==",
+  "dgSpecHash": "LmSs0bJFLZGs9zlebms3ShwP2hO0KFaVDzFlGfgsNESMoiqEb3xUJH0HLioPjcR26snKO/kkR3ZOKmsaUIDaCQ==",
   "success": true,
-  "projectFilePath": "/home/ferret/GIT/Squirrel-Logging/Squirrel-Logging.csproj",
+  "projectFilePath": "/home/ferret/GIT/Squirrel_Project/Squirrel-Logging/Squirrel-Logging.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
