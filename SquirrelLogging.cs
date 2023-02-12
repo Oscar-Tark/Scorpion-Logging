@@ -9,7 +9,7 @@ namespace Scorpion_LOG
         private FileStream fs_log;
         private StreamWriter sr_log;
         private string log_path = "";
-        private readonly string logfile_name = "/scorpion.log";
+        private readonly string logfile_name = "/log.sclog";
 
         public void startLoggingPath(string path)
         {

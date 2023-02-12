@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "Scorpion-Default-Paths/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Scorpion-Default-Paths.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Scorpion-Default-Paths.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Scorpion-Default-Paths/1.0.0": {
+      "type": "project",
+      "path": "../Squirrel-Default-Paths/Scorpion-Default-Paths.csproj",
+      "msbuildProject": "../Squirrel-Default-Paths/Scorpion-Default-Paths.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "Scorpion-Default-Paths >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "/home/ferret/.nuget/packages/": {}
@@ -31,7 +50,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/home/ferret/GIT/Squirrel_Project/Squirrel-Default-Paths/Scorpion-Default-Paths.csproj": {
+              "projectPath": "/home/ferret/GIT/Squirrel_Project/Squirrel-Default-Paths/Scorpion-Default-Paths.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
